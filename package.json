@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemailer": "^6.3.1"
   }
 }
